@@ -38,6 +38,9 @@ TOC:
   
 
 ## Download
+
+The source code to offical releases can be downloaded from the [releases page](https://github.com/Gigoteur/UnicornConsole/releases)
+
 ### Build
 
 Cargo feature:
