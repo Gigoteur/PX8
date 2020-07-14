@@ -59,7 +59,7 @@ and run it with the default embedded game:
 
 or load an existing one:
 ```
-./target/release/uc-devkit ../unicorn/games/floppybird/floppybird.uni
+./target/release/uc-devkit ../unicorn-games/floppybird/floppybird.uni
 ```
 
 You can also choose to build the libretro version:
